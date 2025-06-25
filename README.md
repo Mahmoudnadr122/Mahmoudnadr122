@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Mahmoudal-sharqwai
 - 👀 I’m interested in Aspiring Data Scientist | AI & Data Enthusiast | Computer & Informatics Student at Tanta University | Python & Machine Learning Learner
 - 🌱 I’m currently learning Python & Machine Learning Learner | Prompt Engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
-- Through my account on LinkedIn : https://www.linkedin.com/in/mahmoud-al-sharqwai
+- Contact with me through my account on LinkedIn : https://www.linkedin.com/in/mahmoud-al-sharqwai
 
 <!---
 Mahmoudnadr122/Mahmoudnadr122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
