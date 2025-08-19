@@ -22,7 +22,6 @@
 ## 🔧 My Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-F7DF1E?logo=Python&logoColor=black" alt="Python"/>
-  <img src="https://img.shields.io/badge/OOP-3178C6?logo=OOP Python&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="Wordpress"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
