@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <h1>Hey there, I’m <a href="https://yousefdergham.vercel.app/">Yousef Dergham</a> 👋</h1>
+  <h1>Hey there, I’m <a href="https://Mahmoudal-sharqwai.vercel.app/">Yousef Dergham</a> 👋</h1>
   <p><em>Aspiring Data Scientist | AI & Data Enthusiast | Computer & Informatics Student at Tanta University | Python & Machine Learning Learner · CS Student </em></p>
   <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
 </p>
@@ -49,18 +49,10 @@
 
 ---
 
-## 🎯 LeetCode Heatmap
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mahmoudal-sharqwai?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://yousefdergham.vercel.app/">
+  <a href="https://Mahmoudal-sharqwai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/yousefdergham">
