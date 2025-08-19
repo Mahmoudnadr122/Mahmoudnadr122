@@ -26,24 +26,12 @@
 
 ## 🔧 My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-F7DF1E?logo=javascript&logoColor=black" alt="Python"/>
-  <img src="https://img.shields.io/badge/OOP Python-3178C6?logo=typescript&logoColor=white" alt="OOP Python"/>
+  <img src="https://img.shields.io/badge/Python-F7DF1E?logo=Python&logoColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/OOP Python-3178C6?logo=OOP Python&logoColor=white" alt="OOP Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Prompt Engineering-339933?logo=Prompt Engineering&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="Wordpress"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudnadr122&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoudnadr122&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -56,8 +44,5 @@
   </a>
   <a href="https://t.me/@mahmoud_nadr">
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/yousefdergham">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </p>
