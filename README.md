@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <h1>Hey there, I’m <a href="https://Mahmoudal-sharqwai.vercel.app/">Yousef Dergham</a> 👋</h1>
+  <h1>Hey there, I’m <a href="https://Mahmoudal-sharqwai.vercel.app/">Mahmoudal-sharqwai</a> 👋</h1>
   <p><em>Aspiring Data Scientist | AI & Data Enthusiast | Computer & Informatics Student at Tanta University | Python & Machine Learning Learner · CS Student </em></p>
   <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
 </p>
@@ -26,11 +26,10 @@
 
 ## 🔧 My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="OOP Python"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Python-F7DF1E?logo=javascript&logoColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/OOP Python-3178C6?logo=typescript&logoColor=white" alt="OOP Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="Wordpress"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -38,13 +37,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudal-sharqwai&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudnadr122&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoudal-sharqwai&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahmoudnadr122&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -52,13 +51,10 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://Mahmoudal-sharqwai.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/yousefdergham">
+  <a href="https://www.linkedin.com/in/mahmoud-al-sharqwai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/YousefMohamed01">
+  <a href="https://t.me/@mahmoud_nadr">
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.buymeacoffee.com/yousefdergham">
