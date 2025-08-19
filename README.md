@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Mahmoudal-sharqwai
-- 👀 I’m interested in Aspiring Data Scientist | AI & Data Enthusiast | Computer & Informatics Student at Tanta University | Python & Machine Learning Learner
-- 🌱 I’m currently learning Python & Machine Learning Learner | Prompt Engineering 
-- Contact with me through my account on LinkedIn : https://www.linkedin.com/in/mahmoud-al-sharqwai
-
 <!-- ========================= -->
 <!--      Mahmoudal-sharqwai     -->
 <!-- ========================= -->
@@ -27,9 +22,8 @@
 ## 🔧 My Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-F7DF1E?logo=Python&logoColor=black" alt="Python"/>
-  <img src="https://img.shields.io/badge/OOP Python-3178C6?logo=OOP Python&logoColor=white" alt="OOP Python"/>
+  <img src="https://img.shields.io/badge/OOP-3178C6?logo=OOP Python&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Prompt Engineering-339933?logo=Prompt Engineering&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="Wordpress"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
 </p>
